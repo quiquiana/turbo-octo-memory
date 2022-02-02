@@ -55,7 +55,7 @@ Considering library com.electronwill.night-config:toml:3.6.3
 Considering library org.jline:jline:3.12.1
   Downloading library from https://maven.creeperhost.net/org/jline/jline/3.12.1/jline-3.12.1.jar
     Download completed: Checksum validated.
-Considering library org.apache.maven:maven-artifact:3.6.3
+considering library org.apache.maven:maven-artifact:3.6.3
   Downloading library from https://maven.creeperhost.net/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar
     Download completed: Checksum validated.
 Considering library net.jodah:typetools:0.8.3
